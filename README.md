@@ -124,24 +124,9 @@ O pagamento do motorista é sempre realizado **após a viagem ser concluída**.
 
 ### **Requisitos Funcionais (RF)**
 
-- **RF01**: O sistema deve permitir o login de usuários.  
-- **RF02**: O sistema deve permitir a **criação de orçamentos de viagem**.  
-- **RF03**: O sistema deve permitir **exportar orçamentos em PDF**.  
-- **RF04**: O sistema deve manter um **status de aguardo** para orçamentos não aprovados.  
-- **RF05**: O sistema deve permitir **confirmar viagens após aprovação do cliente**.  
-- **RF06**: O sistema deve **enviar email para o motorista** ao confirmar uma viagem.  
-- **RF07**: O sistema deve manter um **histórico de viagens ocorridas e futuras**.  
-- **RF08**: O sistema deve permitir o **cálculo automático do salário dos motoristas**.  
-- **RF09**: O sistema deve gerar um **relatório financeiro** detalhado das operações.  
-
----
-
-#### ✅ **Requisitos Não Funcionais (RNF)**
-
-- **RNF01**: O sistema deve ter uma interface responsiva desenvolvida em React.  
-- **RNF02**: O sistema deve utilizar um banco de dados MySQL.  
-- **RNF03**: O backend deve ser desenvolvido utilizando NestJS.  
-- **RNF04**: O sistema deve ser executado em contêineres Docker para facilitar a implantação.  
+- Verificar todos os requisitos no wiki com o link abaixo:
+  
+https://github.com/Lucaswillians/vanguard-concept/wiki/Especifica%C3%A7%C3%A3o-T%C3%A9cnica-%E2%80%90-Requisitos-de-Software  
 
 ---
 
