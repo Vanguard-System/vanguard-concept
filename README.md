@@ -1,5 +1,9 @@
 # **Vanguard - Sistema de Gerenciamento para Empresa de Turismo**
 
+## abaixo esta o arquivo pdf com o documento RFC completo do software:
+
+- [Vanguard (3).pdf](https://github.com/user-attachments/files/21170520/Vanguard.3.pdf)
+
 ## 📌 Capa
 **Título do Projeto:** Sistema de Gerenciamento de Viagens para Empresa de Turismo  
 **Nome do Estudante:** Lucas Willian de Souza Serpa  
