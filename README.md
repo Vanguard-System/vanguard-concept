@@ -2,7 +2,8 @@
 
 ## abaixo esta o arquivo pdf com o documento RFC completo do software:
 
-- [Vanguard (3).pdf](https://github.com/user-attachments/files/21170520/Vanguard.3.pdf)
+- [Vanguard (10).pdf](https://github.com/user-attachments/files/23748255/Vanguard.10.pdf)
+
 
 ## 📌 Capa
 **Título do Projeto:** Sistema de Gerenciamento de Viagens para Empresa de Turismo  
